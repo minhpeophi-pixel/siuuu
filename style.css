@@ -10,11 +10,11 @@ h1{
 }
 @font-face {
     font-family: enchant;
-    src: url(minecraft-enchantment.ttf);
+    src: url(/fonts/minecraft-enchantment.ttf);
 }
 @font-face {
     font-family: "font-cua-minh";
-    src: url('SVN-Athena-Signature.otf');
+    src: url('/fonts/SVN-Athena-Signature.otf');
 }
 
 h2{
