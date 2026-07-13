@@ -1,0 +1,16 @@
+ol {
+    font-size: 22px;
+    line-height: 2;
+    text-indent: 40px;
+}
+h1{
+    text-align: center;
+    color: darkgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 20px;
+
+}
